@@ -1,0 +1,25 @@
+# Core Framework
+streamlit
+
+# LLM & RAG
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+openai>=1.10.0
+
+# Vector Store
+chromadb>=0.4.22
+
+# Document Processing
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Development
+pytest>=7.4.0
+langchain_chroma
